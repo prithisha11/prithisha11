@@ -33,11 +33,9 @@ Supervised Learning | Classification | Model Evaluation
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithisha11&show_icons=true&theme=default&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prithisha11&show_icons=true&theme=default&count_private=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prithisha11&layout=compact&theme=default&cache_seconds=86400)
-
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prithisha11&layout=compact&theme=default&hide_border=true)
 
 ## 🚀 Featured Project
 
@@ -59,4 +57,4 @@ Supervised Learning | Classification | Model Evaluation
 ---
 
 ## 📫 Connect With Me
-LinkedIn: (Add your LinkedIn profile link here)
+LinkedIn: www.linkedin.com/in/prithishak11
