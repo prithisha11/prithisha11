@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋 I'm Prithisha
 
-<!--
-**prithisha11/prithisha11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE CSE Student (Cybersecurity Domain)  
+🔐 Interested in Cybersecurity & Machine Learning  
+💻 Currently building ML & Security Projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- Java
+- Python
+- SQL
+- HTML, CSS
+- Nmap, Burp Suite, Metasploit
+- Kali Linux
+
+---
+
+## 📊 GitHub Stats
+![Prithisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prithisha11&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Featured Project
+- 🩺 Diabetes Risk Prediction using Machine Learning  
+  👉 https://github.com/prithisha11/Diabetes-Risk-Prediction-ML
